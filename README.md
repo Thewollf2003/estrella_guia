@@ -117,9 +117,4 @@ Si quieres compartir tu logro, puedes usar este texto:
 > Pueden ver el código y la arquitectura del proyecto aquí: [https://github.com/Thewollf2003/estrella_guia](https://github.com/Thewollf2003/estrella_guia)
 > 
 > #Flutter #Dart #MobileDevelopment #OpenRouter #AI #GitHub #Programacion
-
----
-
-**¿Hay algo más en lo que pueda ayudarte para que tu perfil destaque hoy?** Podríamos trabajar en añadir una captura de pantalla al README si lo deseas.
-
 ```
